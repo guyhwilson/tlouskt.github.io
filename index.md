@@ -4,7 +4,7 @@ layout: default
 
 ### About Me
 
-[CV](./assets/Resume-Tracy-Lou.pdf)
+[CV](./assets/ps03.pdf)
 
 I'm an undergraduate at UC Berkeley studying molecular & cell biology and mathematics. Aside from academics, I'm into running, spelunking, and French people who wrote some cool stuff (e.g. Foucault <3).
 
