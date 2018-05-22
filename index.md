@@ -1,3 +1,3 @@
 ### Hello
 
-[CV]({{ site.url }}/assets/Resume_Tracy-Lou.pdf)
+[CV]({{ site.baseurl }}/assets/Resume_Tracy-Lou.pdf)
