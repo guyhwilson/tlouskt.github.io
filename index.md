@@ -5,4 +5,4 @@ layout: default
 
 ### Hello
 
-[CV](./assets/Resume_Tracy-Lou.pdf)
+[CV](./assets/Resume-Tracy-Lou.pdf)
